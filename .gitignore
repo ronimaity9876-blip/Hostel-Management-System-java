@@ -1,0 +1,12 @@
+# Compiled Java class files
+*.class
+bin/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+Thumbs.db
+Desktop.ini
